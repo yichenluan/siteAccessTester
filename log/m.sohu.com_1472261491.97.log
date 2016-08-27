@@ -1,0 +1,9 @@
+2016-08-27 09:32:41.278932 	 HTTPError 	 404 Client Error: Not Found 	 http://s.m.sohu.com/t/cn/908/company/600908.html
+2016-08-27 09:32:41.548485 	 HTTPError 	 404 Client Error: Not Found 	 http://s.m.sohu.com/t/cn/500/company/601500.html
+2016-08-27 09:32:41.549341 	 HTTPError 	 404 Client Error: Not Found 	 http://s.m.sohu.com/t/cn/536/company/300536.html
+2016-08-27 09:32:41.550079 	 HTTPError 	 404 Client Error: Not Found 	 http://s.m.sohu.com/t/cn/534/company/300534.html
+2016-08-27 09:32:41.556464 	 HTTPError 	 404 Client Error: Not Found 	 http://s.m.sohu.com/t/cn/189/company/603189.html
+2016-08-27 09:32:41.557219 	 HTTPError 	 404 Client Error: Not Found 	 http://s.m.sohu.com/t/cn/067/company/603067.html
+2016-08-27 09:32:41.557930 	 HTTPError 	 404 Client Error: Not Found 	 http://s.m.sohu.com/t/cn/541/company/300541.html
+2016-08-27 09:32:41.558639 	 HTTPError 	 404 Client Error: Not Found 	 http://s.m.sohu.com/t/cn/542/company/300542.html
+Test 1000 urls, Cost time: 69.5924551487 seconds

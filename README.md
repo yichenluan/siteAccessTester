@@ -50,4 +50,4 @@ you can change site configuration by rewite the m_sohu.py.
 
 ##Reference
 
-Thinks to the codes in git@github.com:ubear/URLChecker.
+Thanks to the codes in git@github.com:ubear/URLChecker.

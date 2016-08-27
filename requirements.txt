@@ -1,0 +1,4 @@
+beautifulsoup4==4.3.2
+gevent==1.1.2
+pybloom=1.1
+requests=2.4.3
